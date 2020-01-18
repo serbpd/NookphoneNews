@@ -1,35 +1,77 @@
 [
     {
-        "title": "First trailer",
+        "title": "Fun Facts Vol. 6: Player Details",
+        "text": "Our player characters are now more customizable and detailed than ever before with things like backpacks/back accessories, detailed hair, noses, kneecaps, and bellybuttons. Yes, bellybuttons",
+        "images": "https://i.imgur.com/whSQP6x.png,https://i.imgur.com/48P3ip1.png,https://i.imgur.com/XBP7zuD.png,https://i.imgur.com/JhfyTbu.png,https://i.imgur.com/erdQgzS.png",
+        "date": "Jan 18, 2020"
+    },
+    {
+        "title": "Fun Facts Vol. 5: Phone Cases",
+        "text": "It seems like you'll even be able to customize the back of your Nookphone",
+        "images": "https://i.imgur.com/dgzbphv.png,https://i.imgur.com/pfFd5mT.png",
+        "date": "Jan 18, 2020"
+    },
+    {
+        "title": "Fun Facts Vol. 4: Island Decor",
+        "text": "You'll soon be able to customize your village more than ever by placing furniture outside, making pathways with a new tool, and placing fences to make a backyard",
+        "images": "https://i.imgur.com/Qqw4cNL.png,https://i.imgur.com/mdbmqCX.png",
+        "date": "Jan 18, 2020"
+    },
+    {
+        "title": "Fun Facts Vol. 3: Animal Actions",
+        "text": "In New Horizons, you may notice your villagers interacting with the world a bit more. They can now carry crafting materials, go fishing, and sit wherever they want",
+        "images": "https://i.imgur.com/Dr28zQN.png,https://i.imgur.com/C7BBqbU.png,https://i.imgur.com/TcgNeMm.png",
+        "date": "Jan 18, 2020"
+    },
+    {
+        "title": "Fun Facts Vol. 2: Animal Clothing",
+        "text": "In this game, you'll see your villagers in more varied clothing than before. They can now wear dresses, long sleeves, and even accessories. Sheep even wear shirts now instead of scarves",
+        "images": "https://i.imgur.com/WAo5etX.png,https://i.imgur.com/jbx1bse.png,https://i.imgur.com/Dikjn4y.png,https://i.imgur.com/neZCp8O.png,https://i.imgur.com/CRnuiMD.png",
+        "date": "Jan 18, 2020"
+    },
+    {
+        "title": "Fun Facts Vol. 1: New Characters",
+        "text": "The box art revealed 2 new characters. A dodo, who is probably in charge of flying you to the island, and a beaver, who looks similar to Chip",
+        "images": "https://i.imgur.com/FOf0CBm.png,https://i.imgur.com/lvR32Mi.png",
+        "date": "Jan 18, 2020"
+    },
+    {
+        "title": "Pre-Order Bonuses",
+        "text": "Best Buy has revealed a phone badge as a pre-order bonus. Target will give out a journal as a purchase bonus",
+        "images": "https://i.imgur.com/xSM2uF5.png",
+        "date": "Jan 17, 2020"
+    },
+    {
+        "title": "First Trailer",
         "text": "A short story trailer for the game was released, as well as the box art",
         "images": "https://i.imgur.com/mGm7ic5.jpg?1",
         "link": "https://www.youtube.com/watch?v=nCwVTCxm29c",
         "date": "Jan 2, 2020"
     },
     {
-        "title": "New styles",
+        "title": "New Styles",
         "text": "Some official renders displaying brand new clothing, hair styles, hair colors, and even noses!",
         "images": "https://i.imgur.com/fHTCNFy.jpg,https://i.imgur.com/ngqtkab.jpg,https://i.imgur.com/trUgzUa.jpg,https://i.imgur.com/mFPohgM.jpg,https://i.imgur.com/F35lnOC.jpg,https://i.imgur.com/xMNcoEP.jpg",
         "date": "Dec 21, 2019"
     },
     {
-        "title": "Spanish themes",
+        "title": "Spanish Themes",
         "text": "New Horizons will include a Spanish localization and new Spanish-themed clothing",
-        "images": "https://i.imgur.com/Zu3e9BU.png,https://i.imgur.com/0yhw0gx.jpg",
+        "images": "https://i.imgur.com/Zu3e9BU.png,https://i.imgur.com/0yhw0gx.jpg,https://i.imgur.com/A9vwzlD.jpg",
         "date": "Dec 3, 2019"
     },
     {
-        "title": "Gameplay video: September Nintendo Direct",
+        "title": "Gameplay Video: September Nintendo Direct",
         "link": "https://www.youtube.com/watch?v=sRWjpjNVOCM",
         "date": "Sept 4, 2019"
     },
     {
-        "title": "Treehouse gameplay: E3 2019",
+        "title": "Treehouse Gameplay: E3 2019",
         "link": "https://www.youtube.com/watch?v=dEh3MPy4GAU",
         "date": "June 11, 2019"
     },
     {
-        "title": "First reveal: E3 2019",
+        "title": "First Reveal: E3 2019",
         "link": "https://www.youtube.com/watch?v=_3YNL0OWio0",
         "date": "June 11, 2019"
     }
