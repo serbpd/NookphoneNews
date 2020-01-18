@@ -3,28 +3,34 @@
         "title": "First trailer",
         "text": "A short story trailer for the game was released, as well as the box art",
         "images": "https://i.imgur.com/mGm7ic5.jpg?1",
-        "link": "https://www.youtube.com/watch?v=nCwVTCxm29c"
+        "link": "https://www.youtube.com/watch?v=nCwVTCxm29c",
+        "date": "Jan 2, 2020"
     },
     {
         "title": "New styles",
         "text": "Some official renders displaying brand new clothing, hair styles, hair colors, and even noses!",
-        "images": "https://i.imgur.com/fHTCNFy.jpg,https://i.imgur.com/ngqtkab.jpg,https://i.imgur.com/trUgzUa.jpg,https://i.imgur.com/mFPohgM.jpg,https://i.imgur.com/F35lnOC.jpg,https://i.imgur.com/xMNcoEP.jpg"
+        "images": "https://i.imgur.com/fHTCNFy.jpg,https://i.imgur.com/ngqtkab.jpg,https://i.imgur.com/trUgzUa.jpg,https://i.imgur.com/mFPohgM.jpg,https://i.imgur.com/F35lnOC.jpg,https://i.imgur.com/xMNcoEP.jpg",
+        "date": "Dec 21, 2019"
     },
     {
         "title": "Spanish themes",
         "text": "New Horizons will include a Spanish localization and new Spanish-themed clothing",
-        "images": "https://i.imgur.com/Zu3e9BU.png,https://i.imgur.com/0yhw0gx.jpg"
-    },
-    {
-        "title": "Treehouse gameplay: E3 2019",
-        "link": "https://www.youtube.com/watch?v=dEh3MPy4GAU"
+        "images": "https://i.imgur.com/Zu3e9BU.png,https://i.imgur.com/0yhw0gx.jpg",
+        "date": "Dec 3, 2019"
     },
     {
         "title": "Gameplay video: September Nintendo Direct",
-        "link": "https://www.youtube.com/watch?v=sRWjpjNVOCM"
+        "link": "https://www.youtube.com/watch?v=sRWjpjNVOCM",
+        "date": "Sept 4, 2019"
+    },
+    {
+        "title": "Treehouse gameplay: E3 2019",
+        "link": "https://www.youtube.com/watch?v=dEh3MPy4GAU",
+        "date": "June 11, 2019"
     },
     {
         "title": "First reveal: E3 2019",
-        "link": "https://www.youtube.com/watch?v=_3YNL0OWio0"
+        "link": "https://www.youtube.com/watch?v=_3YNL0OWio0",
+        "date": "June 11, 2019"
     }
 ]
