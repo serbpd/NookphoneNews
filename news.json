@@ -1,8 +1,44 @@
 [
     {
-        "title": "Direct Incoming",
-        "text": "An Animal Crossing New Horizons focused Nintendo Direct will be live on Feb 20 at 6am PT/9am ET. Get ready for some news!",
-        "date": "Feb 18, 2020"
+        "title": "Direct News Vol. 6",
+        "text": "Last bit of news, you'll be able to scan QR codes of old patterns through the Switch Online app, and the game will get free holiday updates in the future!",
+        "images": "https://i.imgur.com/ARR8ziI.png,https://i.imgur.com/MFxfY6b.png",
+        "date": "Feb 20, 2020"
+    },
+    {
+        "title": "Direct News Vol. 5",
+        "text": "You can now choose where new villagers can move in. You can dress up villagers in costumes and outfits in a new photoshoot mode!",
+        "images": "https://i.imgur.com/OpSuSy1.png,https://i.imgur.com/KJsGRrf.png",
+        "date": "Feb 20, 2020"
+    },
+    {
+        "title": "Direct News Vol. 4",
+        "text": "Item management is greatly improved through an item wheel, a wand to change outfits whenever, and closets to try on clothes!",
+        "images": "https://i.imgur.com/heMh8Dy.png,https://i.imgur.com/Bf0Z8Oa.png,https://i.imgur.com/nxcKEYa.png",
+        "date": "Feb 20, 2020"
+    },
+    {
+        "title": "Direct News Vol. 3",
+        "text": "You now choose a base island to start with, but you'll be able to terraform it to your liking later on, or hop on the plane to explore random islands!",
+        "images": "https://i.imgur.com/av6KtE4.png,https://i.imgur.com/1QIdaiw.png,https://i.imgur.com/64s4AdQ.png",
+        "date": "Feb 20, 2020"
+    },
+    {
+        "title": "Direct News Vol. 2",
+        "text": "Furniture and home customization look better than ever with in-depth tools and exterior customization",
+        "images": "https://i.imgur.com/4webuKs.png,https://i.imgur.com/QaEndTz.png,https://i.imgur.com/pIiTnKg.png",
+        "date": "Feb 20, 2020"
+    },
+    {
+        "title": "Direct News Vol. 1",
+        "text": "We'll now see villagers eating, exercising, sweeping, and even randomly dancing on the spot! Their personalities have definitely been expanded!",
+        "images": "https://i.imgur.com/tIhuQWu.png,https://i.imgur.com/MHabYjr.png,https://i.imgur.com/LhYH20r.png,https://i.imgur.com/LhYH20r.png,https://i.imgur.com/eeU8Dh2.png",
+        "date": "Feb 20, 2020"
+    },
+    {
+        "title": "Feb 2020 Direct",
+        "link": "https://www.youtube.com/watch?v=KcsiD3nNzA4",
+        "date": "Feb 20, 2020"
     },
     {
         "title": "Buildable Stairs",
